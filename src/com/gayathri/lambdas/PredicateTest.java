@@ -1,4 +1,4 @@
-package lambdas;
+package com.gayathri.lambdas;
 
 import java.util.ArrayList;
 import java.util.List;

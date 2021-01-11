@@ -1,4 +1,4 @@
-package lambdas;
+package com.gayathri.lambdas;
 
 public class LambaUsage {
 	public static void main() {

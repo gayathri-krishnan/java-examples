@@ -1,4 +1,4 @@
-package lambdas;
+package com.gayathri.lambdas;
 /**
  * 
  * @author krga9002
