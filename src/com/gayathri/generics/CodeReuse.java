@@ -19,6 +19,12 @@ public class CodeReuse {
 
 	}
 
+	/**
+	 * Identifies if a String is null or empty, i.e. ""
+	 * 
+	 * @param a
+	 * @return
+	 */
 	private static boolean isEmpty(String a) {
 		return a == null || a.trim().length() == 0;
 	}
